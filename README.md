@@ -1,4 +1,4 @@
-# Entrega creando Cuenta Github
+# Creando Cuenta Github
 
 ## Cuenta de Github con Gitbash:
 
